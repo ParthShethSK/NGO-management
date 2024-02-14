@@ -1,0 +1,36 @@
+{
+  "activitiesArray": [
+    {
+      "title": "Activity 1",
+      "description": "Description 1",
+      "date": "2018-01-01",
+      "time": "12:00",
+      "location": "Location 1",
+      "image": "/ngo-dashboard.png"
+    },
+    {
+      "title": "Activity 2",
+      "description": "Description 2",
+      "date": "2018-01-02",
+      "time": "12:00",
+      "location": "Location 2",
+      "image": "/ngo-signup.png"
+    },
+    {
+      "title": "Activity 3",
+      "description": "Description 3",
+      "date": "2018-01-03",
+      "time": "12:00",
+      "location": "Location 3",
+      "image": "/ngo-dashboard.png"
+    },
+    {
+      "title": "Activity 4",
+      "description": "Description 4",
+      "date": "2018-01-04",
+      "time": "12:00",
+      "location": "Location 4",
+      "image": "/ngo-signup.png"
+    }
+  ]
+}

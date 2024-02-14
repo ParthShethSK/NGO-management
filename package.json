@@ -1,0 +1,49 @@
+{
+  "name": "trucause",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@hyperlane-xyz/sdk": "^1.2.3",
+    "@mui/material": "^5.11.14",
+    "@mui/x-date-pickers": "^6.0.3",
+    "@openzeppelin/contracts": "^4.8.2",
+    "@pushprotocol/restapi": "^0.9.0",
+    "@rainbow-me/rainbowkit": "^0.12.2",
+    "@zondax/filecoin-solidity": "^2.0.0-beta.1",
+    "date-fns": "^2.29.3",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
+    "encoding": "^0.1.13",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "ethers": "^5.7.2",
+    "flowbite-datepicker": "^1.2.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.13.0",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "18.2.0",
+    "rsuite": "^5.29.0",
+    "time-stamp": "^2.2.0",
+    "stream": "^0.0.2",
+    "timepicker-ui": "^2.6.1",
+    "wagmi": "^0.12.3",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}

@@ -1,0 +1,11 @@
+HardhatError: HH110: Invalid JSON-RPC response received: {"message":"Internal Server Error"}
+    at parseJsonResponse (C:\Users\ullas\trucause\node_modules\hardhat\src\internal\util\jsonrpc.ts:47:11)
+    at HttpProvider._fetchJsonRpcResponse (C:\Users\ullas\trucause\node_modules\hardhat\src\internal\core\providers\http.ts:218:31)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at HttpProvider.request (C:\Users\ullas\trucause\node_modules\hardhat\src\internal\core\providers\http.ts:85:29)
+    at EthersProviderWrapper.send (C:\Users\ullas\trucause\node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20) Error encountered
+TypeError: The "cb" argument must be of type function. Received undefined
+    at maybeCallback (node:fs:186:3)
+    at Object.appendFile (node:fs:2249:14)
+    at C:\Users\ullas\trucause\scripts\deploy.subContracts.js:17:6
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
