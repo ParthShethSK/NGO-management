@@ -96,7 +96,7 @@ export default function Register() {
           className ='space-y-6 '
           action='#'>
           <h5 className='text-2xl font-space text-gray-900 dark:text-white'>
-            Add a new activity
+            Add new activity
           </h5>
           <div>
             <label
